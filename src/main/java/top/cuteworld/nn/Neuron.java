@@ -1,7 +1,6 @@
-package top.cuteworkd.nn;
+package top.cuteworld.nn;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * https://www.lmlphp.com/user/17805/article/item/533540/

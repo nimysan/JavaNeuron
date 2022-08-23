@@ -1,4 +1,4 @@
-package top.cuteworkd.nn;
+package top.cuteworld.nn;
 
 public class Sigmoid implements IActivationFunction {
     private double a = 1.0;

@@ -1,4 +1,4 @@
-package top.cuteworkd.nn;
+package top.cuteworld.nn;
 
 /**
  * 激活函数

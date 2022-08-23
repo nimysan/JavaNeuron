@@ -1,6 +1,4 @@
-package top.cuteworkd.nn;
-
-import java.util.ArrayList;
+package top.cuteworld.nn;
 
 //public class NeuralNet  {
 //

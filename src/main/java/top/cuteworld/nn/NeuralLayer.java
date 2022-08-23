@@ -1,4 +1,4 @@
-package top.cuteworkd.nn;
+package top.cuteworld.nn;
 
 import java.util.ArrayList;
 
